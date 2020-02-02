@@ -24,3 +24,7 @@ Spre gânduri mai frumoase
 Spre marele Graal  
 
 — Iulia Maria Tănescu, 1 februarie 2020
+
+<a href="iulia-maria-tanescu.jpg">
+  <img src="iulia-maria-tanescu.jpg" width="300">
+</a>
